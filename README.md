@@ -1,2 +1,2 @@
-# WAF
+# Well Architected Framework - WAF
 # WAF
